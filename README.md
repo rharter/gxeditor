@@ -10,6 +10,10 @@ This project will let you open a text file and edit it. It's not particularly us
 
 ## Usage
 
+I use a Mac, so I had to install glew.  I don't know how to do this on other systems.
+
+    brew install glew
+
 Get the libraries using `go get` (all may not be required, but what the hell).
 
     go get github.com/google/gxui
